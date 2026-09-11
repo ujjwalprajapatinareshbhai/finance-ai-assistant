@@ -1074,44 +1074,43 @@ Then add them to this README.
 ### Main Interface
 
 ```markdown
-![Finance AI Assistant](https://raw.githubusercontent.com/ujjwalprajapatinareshbhai/finance-ai-assistant/main/screenshots/finance-assistant-home.png)
+![Finance AI Assistant](./screenshots/finance-assistant-home.png)
 ```
 
 ### Stock Query
 
 ```markdown
-![Stock Query](https://raw.githubusercontent.com/ujjwalprajapatinareshbhai/finance-ai-assistant/main/screenshots/stock-query.png)
+![Stock Query](./screenshots/stock-query.png)
 ```
 
 ### Cryptocurrency Query
 
 ```markdown
-![Crypto Query](https://raw.githubusercontent.com/ujjwalprajapatinareshbhai/finance-ai-assistant/main/screenshots/crypto-query.png)
+![Crypto Query](./screenshots/crypto-query.png)
 ```
 
 ### Currency Conversion
 
 ```markdown
-![Currency Conversion](https://raw.githubusercontent.com/ujjwalprajapatinareshbhai/finance-ai-assistant/main/screenshots/currency-conversion.png)
+![Currency Conversion](./screenshots/currency-conversion.png)
 ```
 
 ### Finance News
 
 ```markdown
-![Finance Query](https://raw.githubusercontent.com/ujjwalprajapatinareshbhai/finance-ai-assistant/main/screenshots/finance-news.png)
+![Finance Query](./screenshots/finance-news.png)
 ```
 
 ### Calculator
 
 ```markdown
-![Calculator Query](https://raw.githubusercontent.com/ujjwalprajapatinareshbhai/finance-ai-assistant/main/screenshots/calculator.png)
+![Calculator Query](./screenshots/calculator.png)
 ```
 
 ### Tool Calling
 
 ```markdown
-![Tool Calling](https://raw.githubusercontent.com/ujjwalprajapatinareshbhai/finance-ai-assistant/main/screenshots/tool-calling.png)
-```
+![Tool Calling](./screenshots/tool-calling.png)
 
 ---
 
