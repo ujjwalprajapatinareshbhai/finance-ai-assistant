@@ -1,0 +1,6 @@
+ollama==0.6.2
+gradio
+requests
+python-dotenv
+pydantic
+tavily-python
