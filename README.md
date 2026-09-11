@@ -1074,43 +1074,43 @@ Then add them to this README.
 ### Main Interface
 
 ```markdown
-![Finance AI Assistant](screenshots/finance-assistant-home.png)
+![Finance AI Assistant](./screenshots/finance-assistant-home.png)
 ```
 
 ### Stock Query
 
 ```markdown
-![Stock Query](screenshots/stock-query.png)
+![Stock Query](./screenshots/stock-query.png)
 ```
 
 ### Cryptocurrency Query
 
 ```markdown
-![Crypto Query](screenshots/crypto-query.png)
+![Crypto Query](./screenshots/crypto-query.png)
 ```
 
 ### Currency Conversion
 
 ```markdown
-![Currency Conversion](screenshots/currency-conversion.png)
+![Currency Conversion](./screenshots/currency-conversion.png)
 ```
 
 ### Finance News
 
 ```markdown
-![Finance Query](screenshots/finance-news.png)
+![Finance Query](./screenshots/finance-news.png)
 ```
 
 ### Calculator
 
 ```markdown
-![Calculator Query](screenshots/calculator.png)
+![Calculator Query](./screenshots/calculator.png)
 ```
 
 ### Tool Calling
 
 ```markdown
-![Tool Calling](screenshots/tool-calling.png)
+![Tool Calling](./screenshots/tool-calling.png)
 ```
 
 ---
